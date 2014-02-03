@@ -8,28 +8,28 @@ Free manga reader depeloved for scanlation group. If you familiar with MangaStre
 
 History
 -------
-v1.4 (2008-10-13)
-..* Added keyboard navigation feature.
-..* Reduced page rendering time.
-v1.3 (2008-03-28)
-..* Added chapter's title support.
-v1.2.1 (2008-02-04)
-..* Added ability to automatically jump to the next chapter on the last page of the current chapter.
-v1.2 (2008-01-27)
-..* Changed URL format.
-..* Fixed border layout (it was not displayed in high resolutions).
-v1.1 (2008-01-07)
-..* Improved CSS stylesheet.
-..* Optimized the way of retreiving the list of uploaded mangas.
-..* Fixed invalid XHTML code.
-..* Cleaned up some PHP functions.
-v1.0 (2007-12-27)
-..* Everything is new in this first version :)
+**v1.4** (2008-10-13)
+  * Added keyboard navigation feature.
+  * Reduced page rendering time.
+**v1.3** (2008-03-28)
+  * dded chapter's title support.
+**v1.2.1** (2008-02-04)
+  * Added ability to automatically jump to the next chapter on the last page of the current chapter.
+**v1.2** (2008-01-27)
+  * Changed URL format.
+  * Fixed border layout (it was not displayed in high resolutions).
+**v1.1** (2008-01-07)
+  * Improved CSS stylesheet.
+  * Optimized the way of retreiving the list of uploaded mangas.
+  * Fixed invalid XHTML code.
+  * Cleaned up some PHP functions.
+**v1.0** (2007-12-27)
+  * Everything is new in this first version :)
 
 
 ### Requirements
-..* PHP version 4 or higher.
-..* Apache Mod_Rewrite enabled.
+  * PHP version 4 or higher.
+  * Apache Mod_Rewrite enabled.
 
 
 ### Installation
@@ -48,9 +48,9 @@ v1.0 (2007-12-27)
    automatically sorted by alphabetical order.
 
 ### Note:
-..* Do not use `_` character in folder's name.
-..* Chapter number must be unique for each manga (accepted characters are: 0-9, A-Z).
-..* Chapters can be sorted by ascending or descending order of their numbers (from 0 to 9 then from A to Z).
+  * Do not use `_` character in folder's name.
+  * Chapter number must be unique for each manga (accepted characters are: 0-9, A-Z).
+  * Chapters can be sorted by ascending or descending order of their numbers (from 0 to 9 then from A to Z).
 
 ```Examples:
 Chapter 266 of School Rumble must be uploaded at "mangas/School Rumble/266 - Mad Max/".
@@ -58,14 +58,13 @@ Bonus Chapter of School Rumble must be uploaded at "mangas/School Rumble/Bonus -
 ```
 
 ### Features
-..* Easy to use.
-..* Custom image file formats support.
-..* Image auto-resizing support.
-..* Hot-linking and bandwidth theft protection of uploaded images and folders.
-..* Tested with Internet Explorer 6+, Firefox 1.5+ and Opera 8+
-  (should be compatible with all recent navigators).
-..* Search Engine Optimized.
-	..* Automatic generation of meta keywords, page title and description.
-	..* Friendly looking URLs.
-	..* Valid XHTML 1.1 / CSS code.
-..* Advertising support.
+  * Easy to use.
+  * Custom image file formats support.
+  * Image auto-resizing support.
+  * Hot-linking and bandwidth theft protection of uploaded images and folders.
+  * Tested with Internet Explorer 6+, Firefox 1.5+ and Opera 8+ (should be compatible with all recent navigators).
+  * Search Engine Optimized.
+	  * Automatic generation of meta keywords, page title and description.
+	  * Friendly looking URLs.
+	  * Valid XHTML 1.1 / CSS code.
+  * Advertising support.
