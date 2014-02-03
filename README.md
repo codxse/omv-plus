@@ -1,13 +1,12 @@
 ayana-reader
 ============
 
-Free manga reader depeloved for scanlation group. If you familiar with MangaStream you should know what this software for. I personaly don't own OMV v1.4. I found it on the internet, but it not include the license. **ayana-reader** will be fork from original OMV v1.4.
+Free manga reader depeloved for scanlation group. If you familiar with MangaStream you should know what this software for. I personaly don't own OMV v1.4. I found it on the internet, but it doesn't include the license. **ayana-reader** will be fork from original OMV v1.4.
 
 ## Online Manga Viewer v1.4 (2008-10-13)
 
 
-History
--------
+### History
 **v1.4** (2008-10-13)
   * Added keyboard navigation feature.
   * Reduced page rendering time.
