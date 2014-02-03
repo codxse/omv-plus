@@ -11,25 +11,30 @@ History
 **v1.4** (2008-10-13)
   * Added keyboard navigation feature.
   * Reduced page rendering time.
+
 **v1.3** (2008-03-28)
-  * dded chapter's title support.
+  * add chapter's title support.
+
 **v1.2.1** (2008-02-04)
   * Added ability to automatically jump to the next chapter on the last page of the current chapter.
+
 **v1.2** (2008-01-27)
   * Changed URL format.
   * Fixed border layout (it was not displayed in high resolutions).
+
 **v1.1** (2008-01-07)
   * Improved CSS stylesheet.
   * Optimized the way of retreiving the list of uploaded mangas.
   * Fixed invalid XHTML code.
   * Cleaned up some PHP functions.
+
 **v1.0** (2007-12-27)
   * Everything is new in this first version :)
 
 
 ### Requirements
   * PHP version 4 or higher.
-  * Apache Mod_Rewrite enabled.
+  * Apache `Mod_Rewrite` enabled.
 
 
 ### Installation
