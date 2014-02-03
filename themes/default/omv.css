@@ -1,0 +1,120 @@
+#omv, #omv * {
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 16px;
+}
+
+#omv {
+	margin: 30px auto;
+}
+
+#omv img {
+	border-width: 0;
+}
+
+#omv table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	text-align: center;
+	margin: auto;
+	padding: 0;
+}
+
+#omv table .line {
+	height: 15px;
+}
+
+#omv table .up {
+	background-image: url("up.gif");
+	background-repeat: repeat-x;
+}
+
+#omv table .up_left {
+	background-image: url("up-left.gif");
+	background-repeat: no-repeat;
+}
+
+#omv table .up_right {
+	background-image: url("up-right.gif");
+	background-repeat: no-repeat;
+}
+
+#omv table .up_left img, #omv table .up_right img {
+	float: left;
+}
+
+#omv table .mid_left {
+	background-image: url("left.gif");
+	background-repeat: repeat-y;
+}
+
+#omv table .mid_right {
+	background-image: url("right.gif");
+	background-repeat: repeat-y;
+}
+
+#omv table .down {
+	background-image: url("down.gif");
+	background-repeat: repeat-x;
+}
+
+#omv table .down_left {
+	background-image: url("down-left.gif");
+	background-repeat: no-repeat;
+}
+
+#omv table .down_right {
+	background-image: url("down-right.gif");
+	background-repeat: no-repeat;
+}
+
+#omv table .up_left, #omv table .up_right, #omv table .mid_left, #omv table .mid_right, #omv table .down_left, #omv table .down_right {
+	width: 15px;
+	padding: 0;
+}
+
+#omv table .mid {
+	padding: 10px 20px;
+}
+
+#omv .pager {
+	font-weight: bold;
+	color: #666666;
+	background-color: #eeeeee;
+	border: 1px dotted #666666;
+	margin: 10px;
+	padding: 5px;
+}
+
+#omv .pager span {
+	margin: 0 5px;
+}
+
+#omv .pager select {
+	font-weight: bold;
+	color: #666666;
+	background-color: #fafafa;
+	border: 1px solid #aaaaaa;
+}
+
+#omv .ads {
+	padding: 10px 0;
+}
+
+#omv .picture {
+	border: 1px dotted #666666;
+}
+
+#omv .warn {
+	color: #800000;
+	display: inline;
+}
+
+.w3c {
+	text-align: center;
+	margin: auto;
+	padding: 10px 0;
+}
+
+.w3c img {
+	border-width: 0;
+}
